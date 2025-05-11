@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solaiman Hossain</h1>
-<h3 align="center">A passionate competitive programmer from Bangladesh</h3>
+<h3 align="center">A passionate competitive programmer and aspiring software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat" alt="imsnto" /> </p>
 
@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/imsntoo" target="blank"><img src="https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=for-the-badge" alt="imsntoo" /></a> </p>
 
-- 🌱 I’m currently learning **ML, DL**
+- 🌱 I’m currently learning :
+  - 🌐 Django for robust backend development
+  - ⚙️ FastAPI and building scalable REST APIs
+  - 🧠 LangChain for building LLM-powered applications
+  - 🐍 Python OOP and SOLID principles for better architecture
+  - 🛠️ Docker & CI/CD pipelines
+  - 🧠 Vector databases like Pinecone & FAISS
 
 - 📫 How to reach me **slmnsnto@gmail.com**
 
