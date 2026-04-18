@@ -1,42 +1,120 @@
-<h1 align="center">Hi 👋, I'm Solaiman Hossain</h1>
-<h3 align="center">A passionate competitive programmer and aspiring software engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat" alt="imsnto" /> </p>
+# Hi 👋, I'm Solaiman Hossain
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsnto" alt="imsnto" /></a> </p>
+### Competitive Programmer · Aspiring Software Engineer · ML Explorer
 
-<p align="left"> <a href="https://twitter.com/imsntoo" target="blank"><img src="https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=for-the-badge" alt="imsntoo" /></a> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/imsnto)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/imsntoo)
 
-- 🌱 I’m currently learning :
-  - 🌐 Django for robust backend development
-  - ⚙️ FastAPI and building scalable REST APIs
-  - 🧠 LangChain for building LLM-powered applications
-  - 🐍 Python OOP and SOLID principles for better architecture
-  - 🛠️ Docker & CI/CD pipelines
-  - 🧠 Vector databases like Pinecone & FAISS
+📫 **slmnsnto@gmail.com**
 
-- 📫 How to reach me **slmnsnto@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌱 Currently Learning
+
+| Area | Topic |
+|------|-------|
+| 🌐 Backend | Django for robust backend development |
+| ⚙️ API | FastAPI and building scalable REST APIs |
+| 🧠 AI/LLM | LangChain for building LLM-powered applications |
+| 🐍 Architecture | Python OOP and SOLID principles |
+| 🛠️ DevOps | Docker & CI/CD pipelines |
+| 🔍 Vector DBs | Pinecone & FAISS |
+
+---
+
+## 🤝 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/imsntoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsntoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://kaggle.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://fb.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://instagram.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imsnto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="imsnto" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imsnto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imsnto" height="30" width="40" /></a>
+  <a href="https://twitter.com/imsntoo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/imsnto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/imsnto"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://fb.com/imsnto"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/imsnto"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💻 Competitive Programming
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsnto&show_icons=true&locale=en&layout=compact" alt="imsnto" /></p>
+<p align="left">
+  <a href="https://codeforces.com/profile/imsnto"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/imsnto"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" /></a>
+  <a href="https://www.hackerrank.com/imsnto"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/imsnto"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerearth.com/imsnto"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/imsnto"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsnto&show_icons=true&locale=en" alt="imsnto" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsnto&" alt="imsnto" /></p>
+## 🛠️ Languages & Tools
+
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+**Web & Frameworks**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+**AI / Data Science**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsnto&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=imsnto&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsnto&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imsnto&theme=tokyonight&column=7&margin-w=8" alt="Trophies" />
+</div>
