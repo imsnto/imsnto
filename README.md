@@ -1,29 +1,66 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Solaiman Hossain 👋</h1>
 
-# Hi 👋, I'm Solaiman Hossain
+<p align="center">
+  <b>AI Developer · LLM Integration Specialist · Automation Engineer</b><br/>
+  <i>Building intelligent systems that actually work in production</i>
+</p>
 
-### Competitive Programmer · Aspiring Software Engineer · ML Explorer
-
-[![Profile views](https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/imsnto)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/imsntoo)
-
-📫 **slmnsnto@gmail.com**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solaiman&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/solaiman-hossain"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat-square&logo=googlemaps" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 About Me
 
-| Area | Topic |
-|------|-------|
-| 🌐 Backend | Django for robust backend development |
-| ⚙️ API | FastAPI and building scalable REST APIs |
-| 🧠 AI/LLM | LangChain for building LLM-powered applications |
-| 🐍 Architecture | Python OOP and SOLID principles |
-| 🛠️ DevOps | Docker & CI/CD pipelines |
-| 🔍 Vector DBs | Pinecone & FAISS |
+I'm an **AI Developer at Softvence**, a software agency in Bangladesh, with a focus on building real-world AI agent systems and automation pipelines. I love turning complex business problems into clean, working AI solutions.
 
+- 🤖 Designing **multi-agent systems** using LangGraph, LangChain, and Claude API
+- ⚙️ Building **automation pipelines** with n8n, FastAPI, and Docker
+- 🌍 Serving clients across **real estate, hospitality, and e-commerce** verticals
+- 📦 Shipping production-grade systems with **GitHub Actions CI/CD** & AWS/EC2/Lambda
+- 🏆 Competitive programmer — **Codeforces Specialist** | **LeetCode Knight** | ~200+ contests
+
+---
+## 🛠️ Tech Stack
+ 
+**AI / LLM**
+ 
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-5A0FC8?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude%20API-orange?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Groq](https://img.shields.io/badge/Groq-black?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud)
+ 
+**Backend / APIs**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat-square)
+ 
+**Automation & DevOps**
+ 
+![n8n](https://img.shields.io/badge/n8n-EF4D22?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
+**Databases & Vector Stores**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vertex AI Vector Search](https://img.shields.io/badge/Vector%20Search-4285F4?style=flat-square&logo=googlecloud)
+ 
 ---
 
 ## 🤝 Connect with Me
@@ -45,56 +82,6 @@
   <a href="https://www.codechef.com/users/imsnto"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
   <a href="https://www.hackerearth.com/imsnto"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=Blue" /></a>
   <a href="https://auth.geeksforgeeks.org/user/imsnto"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-**Web & Frameworks**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Databases**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-**AI / Data Science**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
