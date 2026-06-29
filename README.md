@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=solaiman&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/solaiman-hossain"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/imsnto"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat-square&logo=googlemaps" />
 </p>
 
